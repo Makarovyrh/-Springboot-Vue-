@@ -1,0 +1,2 @@
+webpackJsonp([3],{J262:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("div",{staticClass:"main-div"},[e("font",{staticClass:"main-font"},[e("b",[this._v("欢迎~")])])],1)])},staticRenderFns:[]};var s=n("VU/8")({},i,!1,function(t){n("UIFI")},null,null);e.default=s.exports},UIFI:function(t,e){}});
+//# sourceMappingURL=3.e5d2b4d8c5c6d75bc033.js.map
