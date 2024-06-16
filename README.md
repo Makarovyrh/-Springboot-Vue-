@@ -1,4 +1,4 @@
-基于Springboot+Vue的音乐平台
+# 基于Springboot+Vue的音乐平台
 
 项目运行环境
 后端：Springboot，Mybatis，Mysql，Node.js
